@@ -1,6 +1,6 @@
 # Debugging Interview Setup
 
-This repository provides a setup for verifying that your Python or JavaScript environments are correctly configured for the interview. You can use either Python or JavaScript, depending on your preference.
+This repository provides a setup for verifying that your Python or JavaScript environments are correctly configured for the interview. You can use either Python or JavaScript, depending on your preference. Clone this repo locally and follow the instructions below!
 
 ---
 
