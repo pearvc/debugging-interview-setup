@@ -28,7 +28,7 @@ If all imports succeed, you'll see a success message. If any fail, the script wi
 ## JavaScript/Node.js Setup
 
 ### 1. Install Node.js Dependencies
-Make sure you have Node.js (v14 or higher) installed. Then run:
+Make sure you have Node.js (v14 or higher) installed; you can check this by running `which node`. Then run:
 ```sh
 npm install
 ```
