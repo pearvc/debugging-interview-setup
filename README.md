@@ -9,12 +9,13 @@ This repository provides a setup for verifying that your Python or JavaScript en
 ### 1. (OPTIONAL, depending on your local workflow) Create or Activate a Virtual Environment
 To avoid conflicts and to make it easy to reuse the same environment for other projects, use a virtual environment if you prefer (e.g. venv, conda, etc.). 
 
-> **Note:** If using an environment, make sure you are able to use it in a different folder/repo, as you will need it to run the code the day of the interview.
+> **Note:** If using an environment, make sure you are able to activate it in a different folder/repo, as you will need it to run the code the day of the interview.
 
 ### 2. Install Python Requirements
 ```sh
 pip install -r requirements.txt
 ```
+> **Note:** If using UV, see https://stackoverflow.com/questions/79344035/how-to-add-requirements-txt-to-uv-environment for guidance on package installation from requirements.txt files.
 
 ### 3. Test Python Requirements
 Run the following script to check that all required packages can be imported:
